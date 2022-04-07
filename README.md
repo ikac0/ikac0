@@ -1,4 +1,4 @@
 - 👋  Hi, I’m Krsteski Ilija, front-end web developer, based in Berlin, Germany.
-- 👀  I’m interested in React and all of its power
-- 🌱  I’m currently learning different advanced technologies to help my workflow.
-- 💞️  I’m looking for an english speaking, entry-level gig in Berlin.
+-  I’m interested in React and all of its power
+-  I’m currently learning different advanced technologies to help my workflow.
+- 👀 I’m looking for an english speaking, entry-level gig in Berlin.
